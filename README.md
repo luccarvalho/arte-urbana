@@ -8,7 +8,7 @@ Utilizando por exemplo a galeria de ícones do Bootstrap, a estruturação de gr
 
 ## :receipt: Descrição do projeto:
 
-Projeto simples de uma única página, como o nome de Art: exibições de arte urbana.
+Projeto simples de uma única página, com o nome de Art: exibições de arte urbana.
 
 O projeto é uma galeria de exibição de trabalhos (gráfites) feitos nas ruas.
 
