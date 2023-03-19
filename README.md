@@ -16,7 +16,7 @@ Possui um banner principal, com o título dado pelo autor do projeto e com a dat
 
 Ao navegar pela Home é apresentado em forma de grid, outras artes de rua com as informações básicas de cada uma.
 
-Projeto responsivo para mobile.
+Projeto responsivo (Mobile First).
 
 ## :heavy_check_mark: Técnologias utilizadas:
 
